@@ -63,7 +63,7 @@ h1 {
     font-weight: 600;
     letter-spacing: -1.71px;
     line-height: 48px;
-    padding: 8px 0;
+    padding: 6px 0 10px;
 }
 
 .heading-p {
@@ -146,7 +146,7 @@ h1 {
 }
 
 .details {
-    padding-left: 16px;
+    padding-left: 18px;
 }
 
 .profile-picture {
