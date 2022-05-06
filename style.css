@@ -80,6 +80,7 @@ h1 {
     height: 200px;
     position: relative;
     top: 8px;
+    left: 16px;
     display: flex;
     flex-wrap: wrap;
     align-items: flex-end;
