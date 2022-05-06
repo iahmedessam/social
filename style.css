@@ -43,7 +43,7 @@ main {
     width: 1100px;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -48%);
+    transform: translate(-50%, -47%);
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-template-areas: "hd hd hd rt rt rt"
@@ -99,9 +99,11 @@ h1 {
 }
 
 .ratings-form2 {
-    transform: translate(-40px, 0px);
+    transform: translate(-40px, 4px);
 }
-
+.ratings-form2 {
+    transform: translate(0, 8px);
+}
 .star {
     width: 16.5px;
     height: 15.7px;
@@ -131,11 +133,11 @@ h1 {
 }
 
 .reviews-content2 {
-    transform: translate(0, 15px);
+    transform: translate(0, 16px);
 }
 
 .reviews-content3 {
-    transform: translate(0, 30px);
+    transform: translate(0, 32px);
 }
 
 .reviws-form {
