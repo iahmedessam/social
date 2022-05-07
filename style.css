@@ -34,7 +34,8 @@ body {
     background-image: url("images/bg-pattern-bottom-desktop.svg"), url("images/bg-pattern-top-desktop.svg");
     background-size: auto;
     background-repeat: no-repeat;
-    background-position: top, bottom;
+    background-position: right 0vw bottom -116vh,
+        left 0vw top 0vh;
     font-family: "Spartan", sans-serif;
 }
 
@@ -63,7 +64,7 @@ h1 {
     font-weight: 600;
     letter-spacing: -1.71px;
     line-height: 48px;
-    padding: 6px 0 10px;
+    padding: 4px 0 12px;
 }
 
 .heading-p {
@@ -80,7 +81,6 @@ h1 {
     height: 200px;
     position: relative;
     top: 8px;
-    left: -24px;
     display: flex;
     flex-wrap: wrap;
     align-items: flex-end;
