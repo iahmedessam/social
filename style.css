@@ -44,7 +44,7 @@ main {
     width: 1100px;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -47.7%);
+    transform: translate(-51%, -47.7%);
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-template-areas: "hd hd hd rt rt rt"
